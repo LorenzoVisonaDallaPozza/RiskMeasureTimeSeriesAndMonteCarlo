@@ -1,6 +1,6 @@
 # Financial Risk Management - VaR & ES Simulation
 
-> **Project developed for the "Financial Risk Management" course at University of Verona.**
+> **Project developed for the "Financial Risk Management" course at Università di Verona.**
 
 ## Project Overview
 This Java application is designed to perform risk analysis on an investment portfolio (composed of **Nike** and **Novo Nordisk** equities). It calculates and compares **Value at Risk (VaR)** and **Expected Shortfall (ES)** using two different methodologies:
@@ -73,5 +73,5 @@ Gli ES storici simulati dal giorno 251 al giorno 1575 sono:
 
 **Credits:**
 * This project is based on a template provided by **Prof. Alessandro Munari**, specifically regarding the **data import management**.
-* The implementation of **Risk Measures (VaR/ES)**, **Monte Carlo Simulation**, and **Rolling Window Analysis** was developed by the team as part of the coursework.
+* The implementation of **Risk Measures (VaR/ES)**, **Monte Carlo Simulation**, and **Rolling Window Analysis** was developed by the team as part of the project work.
 * Market data was sourced from **Yahoo Finance** via **R scripts** and converted for analysis.
