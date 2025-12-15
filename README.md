@@ -63,6 +63,12 @@ I VaR storici simulati dal giorno 251 al giorno 1575 sono:
 Gli ES storici simulati dal giorno 251 al giorno 1575 sono:
 [28.655, 28.560, 28.540, ...]
 ```
+### Example Plotting
+
+![Historical VaR](snapshot-frm-1.png)
+
+![Monte Carlo Simulation](snapshot-frm-2.png)
+
 ## Authors & Acknowledgments
 
 **Development Team:**
