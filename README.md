@@ -1,4 +1,5 @@
 # Financial Risk Management - VaR & ES Simulation
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Project developed for the "Financial Risk Management" course at Università di Verona.**
 
@@ -81,3 +82,6 @@ Gli ES storici simulati dal giorno 251 al giorno 1575 sono:
 * This project is based on a template provided by **Prof. Alessandro Munari**, specifically regarding the **data import management**.
 * The implementation of **Risk Measures (VaR/ES)**, **Monte Carlo Simulation**, and **Rolling Window Analysis** was developed by the team as part of the project work.
 * Market data was sourced from **Yahoo Finance** via **R scripts** and converted for analysis.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
